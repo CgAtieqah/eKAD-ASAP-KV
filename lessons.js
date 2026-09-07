@@ -20,6 +20,13 @@ const lessons = [
     highlight1: 200
    
   },
+  {
+    id: 'ya',
+    part1: 'ya',
+    audio: 'audio/ya.m4a',
+    highlight1: 200
+   
+  },
   
 
 ];
